@@ -5,7 +5,7 @@
 
 <body>
   
-  <p>Alguem sabe como apaga repositório?</p>
+  <p>Alguém sabe como que apaga repositórios?</p>
   
 </body>
 </html>
